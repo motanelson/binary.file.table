@@ -1,0 +1,4 @@
+100
+i 42,100,-7
+s Hello\nWorld
+b ./data/my.txt
